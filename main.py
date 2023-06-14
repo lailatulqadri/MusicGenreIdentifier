@@ -1,3 +1,5 @@
+import streamlit as st
+
 # -*- coding: utf-8 -*-
 """TA2023 Text Analytic Applications: Document Clustering.ipynb
 
@@ -8,6 +10,7 @@ Original file is located at
 
 We will use nltk toolkit to assist text cleaning.
 """
+st.write("Music Genre Identifier")
 
 #To import and download nltk
 import nltk
